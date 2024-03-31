@@ -1,0 +1,538 @@
+body{
+background-image: url("back\ 5.jpg");
+background-size: cover;
+}
+.navbar{
+    height: 60px;
+    background-color:reds;
+    
+}
+.lobo{
+    color:yellow;
+    font-size: 20px;
+}
+a{
+margin: 110px;
+color:yellow;
+font-size: 20px;
+}
+.navbar a:hover{
+    color: brown;
+}
+input{
+    color: black;
+}
+button{
+    color: black;
+    background-color: yellow;
+    font-size: 15px;
+}
+.front{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    font-style:oblique;
+    font-size: 40px;
+    color:chartreuse;
+}
+.font2{
+    color: fuchsia;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    font-style: oblique;
+
+}
+.about{
+    color: red;
+    text-transform: uppercase;
+    margin-top: 170px;
+    font-size: 30px;
+    text-decoration: underline;
+}
+.para1{
+    color: white;
+    width: 50%;
+    margin-top:40px ;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.box1{
+    height: 250px;
+    width: 250px;
+    border: 2px solid red;
+    position:absolute;
+    right: 20px;
+    margin-top: 10px;
+    background-image: url("india.jpg");
+    background-size: cover;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 0s;
+}
+.name{
+    position: absolute;
+    right: 20px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.about2{
+    color: red;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-top: 150px;
+    font-size: 30px;
+}
+.para2{
+    width: 50%;
+    color: white;
+    margin-top: 30px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.box2{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 2px solid red;
+    position: absolute;
+    right: 20px;
+    margin-top:30px ;
+    background-image: url("freedam-fighter.png");
+    background-size:cover ;
+}
+.box3{
+    height: 250px;
+    width:250px ;
+    border-radius: 50%;
+    border:2px solid red;
+    position:absolute ;
+    right: 20px;
+    margin-top: 40px;
+    background-image: url("poetry.png");
+    background-size: cover;
+}
+.para3{
+    width: 50%;
+    color: white;
+    margin-top: 50px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.about3{
+    color:red;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-top:200px;
+    font-size: 30px;
+}
+
+.about4{
+    color:yellow;
+    text-align: center;
+    margin-top:80px ;
+    font-size: 40px;
+    text-decoration: underline;
+    margin-top: 140px;
+}
+.gallery{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.one{
+    height: 300px;
+    width: 300px;
+    border: 2px solid red;
+    background-image: url("APJsir.jpg");
+    background-size: cover;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 0s;
+}
+
+.two{
+    height: 300px;
+    width: 300px;
+    border: 2px solid red;
+    background-image: url("Andhrakesari.jpg");
+    background-size: cover;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 0s;
+}
+
+
+.three{
+    height: 300px;
+    width: 300px;
+    border:2px solid red;
+    background-image: url("Iron\ man.jpg");
+    background-size: cover;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 0s;
+}
+.four{
+    height:300px;
+    width: 300px;
+    border: 2px solid red;
+    background-image: url("Pt.usha.jpg");
+    background-size: cover;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 0s;
+}
+.bio1{
+    
+    justify-content:space-between;
+    margin-top:20px;
+
+}
+.bio2{
+    
+    justify-content: space-around;
+    margin-top:20px;
+
+}
+.bio3{
+
+    justify-content: space-around;
+    margin-top:20px;
+
+}
+.bio4{
+    justify-content: space-around;
+    margin-top:20px;
+
+}
+.bio{
+    display: flex;
+    justify-content: space-around;
+    margin-top:20px;
+
+}
+
+.about5{
+    color:deeppink;
+    text-align: center;
+    margin-top:80px ;
+    font-size: 40px;
+    text-decoration: underline;
+    margin-top: 140px;
+}
+.gallery2{
+    display: flex;
+    justify-content:space-around ;
+    margin-top:115px ;
+}
+.photo1{
+    height: 300px;
+    width: 300px;
+    border: 2px solid red;
+    background-image: url("Sarojin\ naidu.jpg");
+    background-size: cover;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 0s;
+}
+
+.photo2{
+    height: 300px;
+    width: 300px;
+    border: 2px solid red;
+    background-image: url("Milkha\ sing.jpg");
+    background-size: cover;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 0s;
+}
+
+
+.photo3{
+    height: 300px;
+    width: 300px;
+    border:2px solid red;
+    background-image: url("sachin\ dendulkar.jpg");
+    background-size: cover;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 0s;
+}
+.photo4{
+    height:300px;
+    width: 300px;
+    border: 2px solid red;
+    background-image: url("D.R.Rajendraprasad.jpg");
+    background-size: cover;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 0s;
+}
+.year1{
+    
+    justify-content: space-around;
+    margin-top:20px;
+
+}
+.year2{
+    
+    justify-content: space-around;
+    margin-top:20px;
+
+}
+.year3{
+
+    justify-content: space-around;
+    margin-top:20px;
+
+}
+.year4{
+    justify-content: space-around;
+    margin-top:20px;
+
+}
+.year{
+    display: flex;
+    justify-content: space-around;
+    margin-top:20px;
+
+}
+.e{
+    border: 2px solid red;
+}
+.r{
+    border: 2px solid red;
+}
+
+.t{
+    border:2px solid red;
+}
+
+.choice{
+    color:yellow;
+    text-align: center;
+    margin-top:80px ;
+    font-size: 40px;
+    text-decoration: underline;
+    margin-top: 90px;
+}
+.pasanda{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.book1{
+    height: 300px;
+    width: 300px;
+    border: 2px solid red;
+    background-image: url("Allmemory.jpg");
+    background-size: cover;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 0s;
+}
+
+
+.book2{
+    height: 300px;
+    width: 300px;
+    border:2px solid red;
+    background-image: url("wings\ of\ fire.jpg");
+    background-size: cover;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 0s;
+}
+.book3{
+    height:300px;
+    width: 300px;
+    border: 2px solid red;
+    background-image: url("waiting\ for\ visa2.jpg");
+    background-size: cover;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 0s;
+}
+.bookyear1{
+    
+    justify-content: space-around;
+    margin-top:20px;
+
+}
+.bookyear2{
+    
+    justify-content: space-around;
+    margin-top:20px;
+
+}
+.bookyear3{
+
+    justify-content: space-around;
+    margin-top:20px;
+
+}
+.bookyear4{
+    justify-content: space-around;
+    margin-top:20px;
+
+}
+.bookyear{
+    display: flex;
+    justify-content: space-around;
+    margin-top:20px;
+
+}
+
+.i{
+    border: 2px solid red;
+}
+.l{
+    border: 2px solid red;
+}
+.u{
+    border: 2px solid red;
+}
+.style{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    margin-top: 125px;
+    font-size: 40px;
+    
+    
+}
+.foot{
+    background-color:white;
+    margin-top: 80px;
+    
+    
+}
+ .container{
+    max-width: 1010px;
+    background-color:white;
+    margin: auto;
+    color: white;
+
+ }
+ .row{
+    display: flex;
+    flex-wrap:initial;
+ }
+ ul{
+    list-style: none;
+    
+ }
+.footer-cool{
+    width:50%;
+    padding: 20px 50px;
+    color: red;
+    font-size: 30px;
+    
+}
+.footer-col h4 ::before{
+    content:'';
+    position: absolute;
+    left:0;
+    bottom:10px ;
+    background-color:white;
+    height: 1px;
+    box-sizing:border-box;
+    width: 50px;
+
+
+} 
+.a{
+    color: black;
+}
+.b{
+    color:black;
+}
+.c{
+    color:black;
+}
+.d{
+color: black;
+}
+.e{
+color: black;
+}
+.f{
+color: black;
+}
+.g{
+color: black;
+}
+.h{
+    color: black;
+}
+.i{
+    color: black;
+}
+.footercontainer{
+    width: 100%;
+    padding: 10px 10px 10 px;
+    background-color:burlywood
+}
+.soicialicons{
+    display: flex;
+    justify-content: center;
+    
+}
+.soicialicons a{
+    text-decoration: none;
+    padding: 4px;
+    background-color: black;
+    margin: 70px;
+    border-radius: 50%;
+}
+.soicialicons a i{
+    font-size:2em;
+    color:white;
+    opacity: 0.9;
+}
+.soicialicons a:hover{
+    background-color: red;
+    transition: 0.5s;
+}
+.soicialicons a:hover i{
+    color:white;
+    transition: 0.5s;
+}
+.footernav ul{
+    display:flex;
+    justify-content: center;
+}
+.footernav ul li a{
+    color:red;
+    margin:20px;
+    text-decoration: none;
+    font-size:1.3em;
+    opacity:0.7;
+    transition: 0.5s;
+}
+.footernav ul li a:hover{
+    opacity: 1;
+}
+.footerbotton p{
+    color:white;
+}
+.footerbotton {
+    background-color:teal;
+    padding:20px;
+    text-align: center;
+}
